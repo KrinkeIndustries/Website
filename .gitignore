@@ -16,3 +16,34 @@ _site/
 # counterproductive to check this file into the repository.
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
+
+# macOS
+
+# Finder metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Resource forks
+._*
+
+# Spotlight
+.Spotlight-V100
+
+# Trash
+.Trashes
+
+# Volume information
+.VolumeIcon.icns
+.fseventsd
+
+# Directory created when using "Compress" in Finder
+__MACOSX/
+
+# AFP share folders
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+.DS_Store
